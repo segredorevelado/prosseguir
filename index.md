@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+<html><head>	
 
-You can use the [editor on GitHub](https://github.com/segredorevelado/prosseguir/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+	<style type="text/css">
+body.a{background-image:url(back11-1.png);background-repeat:repeat;border-top-width:px;border-top-style:solid;border-top-color:;border-bottom-width:px;border-bottom-style:solid;border-bottom-color:;}
 
-### Markdown
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/segredorevelado/prosseguir/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<link rel="stylesheet" id="optimizepress-page-style-css" href="style.min.css?ver=2.5.13" type="text/css" media="all">
+<link rel="stylesheet" id="optimizepress-default-css" href="default.min.css?ver=2.5.13" type="text/css" media="all">
+<script type="text/javascript" src="jquery.js?ver=1.12.4"></script></head>
+<body class="a"><div id="content_area" class=""><div style="background-image:url(back11-1.png);background-repeat:repeat;border-top-width:px;border-top-style:solid;border-top-color:;border-bottom-width:px;border-bottom-style:solid;border-bottom-color:;" class="row one-column cf ui-sortable   " id="le_body_row_1" data-style=""><div class="fixed-width"><div class="one-column column cols" id="le_body_row_1_col_1"><div class="element-container cf" data-style="" id="le_body_row_1_col_1_el_1"><div class="element"> <div class="op-text-block" style="width:100%;text-align: left;"><h3 style="text-align: center;">Dicas grátis para quem gosta de aprender!</h3>
+</div> </div></div><div class="element-container cf" data-style="" id="le_body_row_1_col_1_el_2"><div class="element"> <div style="height:10px"></div> </div></div><div class="element-container cf" data-style="" id="le_body_row_1_col_1_el_3"><div class="element"> <div class="video-plugin-new embed not-flowplayer" style="max-width:100%; width:716px; height:auto; padding-top:0; padding-bottom:0; margin:0 auto;margin:0 auto; border: 5px solid #51b93c;margin-bottom: 20px;"><div style="width:716px;height:0;  padding-bottom: 55.865921787709%; padding-top:0;"><div style="position: relative; height: 0; padding-bottom: 56.2%; padding-top: 0;">
+            <iframe style="position: absolute !important; width: 100% !important; height: 100% !important; z-index: 100" src="https://www.youtube.com/embed/28Qu_DM8H9A?wmode=opaque&amp;showinfo=0&amp;autoplay=0&amp;controls=0&amp;modestbranding=1&amp;rel=0&amp;start=13" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+            <div style="position: absolute; bottom: 0; left: 0; width: 100%; height: 60px; background-color: transparent; z-index: 101"></div></div></div></div> </div></div><div class="element-container cf" data-style="e30=" id="le_body_row_1_col_1_el_4"><div class="element"><div class="op-text-block" style="width:100%;text-align: left;"><p style="font-family:Verdana, Geneva, sans-serif;text-align: center;">Clique no Play e Assista Esse Vídeo Agora!</p>
+</div></div></div><div class="element-container cf" data-style="" id="le_body_row_1_col_1_el_5"><div class="element"> <div style="height:10px"></div> </div></div><div class="element-container cf" data-style="e30=" id="le_body_row_1_col_1_el_6"><div class="element"><div style="text-align:center"><style type="text/css">#btn_1_426509d54d8f72d9bae3cda35490a676 .text {font-size:32px;color:#ffffff;font-weight:bold;}#btn_1_426509d54d8f72d9bae3cda35490a676 .subtext {font-size:14px;color:#ffffff;font-weight:normal;}#btn_1_426509d54d8f72d9bae3cda35490a676 {padding:30px 40px;border-color:rgba(255,160,53,0);border-width:0px;-moz-border-radius:6px;-webkit-border-radius:6px;border-radius:6px;background:#ffa035;background:-webkit-gradient(linear, left top, left bottom, color-stop(0%, #ffa035), color-stop(100%, #ffa035));background:-webkit-linear-gradient(top, #ffa035 0%, #ffa035 100%);background:-moz-linear-gradient(top, #ffa035 0%, #ffa035 100%);background:-ms-linear-gradient(top, #ffa035 0%, #ffa035 100%);background:-o-linear-gradient(top, #ffa035 0%, #ffa035 100%);background:linear-gradient(to bottom, #ffa035 0%, #ffa035 100%);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#ffa035, endColorstr=#ffa035, GradientType=0);box-shadow:0px 1px 1px 0px rgba(255,255,255,1);}#btn_1_426509d54d8f72d9bae3cda35490a676 .gradient {-moz-border-radius:6px;-webkit-border-radius:6px;border-radius:6px;}#btn_1_426509d54d8f72d9bae3cda35490a676 .shine {-moz-border-radius:6px;-webkit-border-radius:6px;border-radius:6px;}#btn_1_426509d54d8f72d9bae3cda35490a676 .active {-moz-border-radius:6px;-webkit-border-radius:6px;border-radius:6px;}#btn_1_426509d54d8f72d9bae3cda35490a676 .hover {-moz-border-radius:6px;-webkit-border-radius:6px;border-radius:6px;}</style><a href="http://mon.net.br/17rzd?src=esq" target="_blank" id="btn_1_426509d54d8f72d9bae3cda35490a676" class="css-button style-1"><span class="text">COMPRAR AGORA</span><span class="subtext"></span><span class="hover"></span><span class="active"></span></a></div></div></div><div class="element-container cf" data-style="" id="le_body_row_1_col_1_el_7"><div class="element"> <div style="height:10px"></div> </div></div><div class="element-container cf" data-style="e30=" id="le_body_row_1_col_1_el_8"><div class="element"><div class="op-text-block" style="width:100%;text-align: left;"><p style="font-family:Verdana, Geneva, sans-serif;text-align: center;">Uma porcentagem do total arrecadado é repassada ao governo federal e, assim, milhões de brasileiros são beneficiados nas áreas de saúde, educação, segurança, cultura e esportes.</p>
+</div></div><div class="element-container cf" data-style="e30=" id="le_body_row_1_col_1_el_8"><div class="element"><div class="op-text-block" style="width:100%;text-align: left;"><p align="center"><a href="http://luisflores.online/politicas.html" target="new">Política de Privacidade</a> | <a href="http://luisflores.online/termos-de-uso.html">Termos de uso</a><a href="http://luisflores.online/politicas.html" target="new"></a></p>
+<center><div><p align="center">Ltart, R. Senador Camara, 94 - Centro - CEP: 40257-000 - Recife - PE <br>
+CNPJ - 89.089.431/0001-97 </p>
+</div></center></div></div></div></div><div class="element-container cf" data-style="" id="le_body_row_1_col_1_el_9"><div class="element"> <div style="height:10px"></div> </div></div></div></div></div><div class="" id="" data-style=""></div></div></body></html>
